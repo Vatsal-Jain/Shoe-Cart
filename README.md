@@ -18,12 +18,12 @@ Welcome to the Shoe Store App, a simple mobile application for shopping for shoe
 ### Admin Features
 
 - **Login**: Admins can log in using their credentials.
-- **Home**: Admins can access the app's administrative dashboard for managing products and users.
+- **Home**: Admins can access the app's administrative dashboard for managing products.
   ![Shoe Store Admin Panel](readmeImages/addshoes.jpeg)
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/shoe-store-app.git`
+1. Clone the repository: `git clone https://github.com/Vatsal-Jain/Shoe-Cart.git`
 2. Navigate to the project directory: `cd shoe-store-app`
 3. Install dependencies: `npm install` or `yarn install`
 
