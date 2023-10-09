@@ -24,7 +24,7 @@ Welcome to the Shoe Store App, a simple mobile application for shopping for shoe
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Vatsal-Jain/Shoe-Cart.git`
-2. Navigate to the project directory: `cd shoe-store-app`
+2. Navigate to the project directory: `cd shoecart`
 3. Install dependencies: `npm install` or `yarn install`
 
 ## Usage
